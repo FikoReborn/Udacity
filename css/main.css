@@ -338,6 +338,8 @@ textarea:focus {
 .submit-button:focus {
     border-color: black;
     outline: 0;
+    background-color: black;
+    font-size: 1.2em;
 }
 
 
